@@ -4,6 +4,8 @@ import os
 import numpy as np
 import getopt
 
+#os.getenv("")
+
 default_data_path = "/Users/moonknight/Project/python/TrainCPT/data/test_data.txt"
 sc = None
 ss = None
